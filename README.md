@@ -5,9 +5,9 @@ I am a first-year physics student. This is my first data analysis
 project, and I am doing it to learn the basics of Python data analysis
 on real data from CERN's Open Data portal.
 
-## My main goal
-I want to gain experience in the kind of work I would do in the TDK,
-and to prove that I am capable of it.
+## My goal
+My aim is to learn how scientific research is carried out and to gain
+practical experience and knowledge.
 
 ## About the project and how I work
 The goal and the step-by-step plan of this project were designed by an
