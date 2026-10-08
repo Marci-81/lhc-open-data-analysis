@@ -224,5 +224,7 @@ __marimo__/
 data/
 *.root
 
+test/
+
 # Jupyter
 .ipynb_checkpoints/
